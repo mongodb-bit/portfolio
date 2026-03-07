@@ -1,4 +1,4 @@
-import heroim from "../assets/heroim.jpeg"
+import heroim from "../assets/kk4.jpeg"
 import { TypeAnimation } from "react-type-animation"
 import resume from "../assets/new3.pdf"
 import ShoalDoodle from "./ShoalDoodle";
