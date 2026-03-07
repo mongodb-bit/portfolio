@@ -21,7 +21,7 @@ export default function Navbar() {
       Subin.dev
     </Link>
     <p className="text-xs md:text-sm text-gray-300 uppercase tracking-wider animate-pulse">
-      Build. Ship. Scale. Repeat.
+      Build. Ship. Scale.
     </p>
   </div>
 
