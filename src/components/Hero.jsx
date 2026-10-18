@@ -1,4 +1,4 @@
-import heroim from "../assets/kk4.jpeg"
+import heroim from "../assets/kk1.jpeg"
 import { TypeAnimation } from "react-type-animation"
 import resume from "../assets/new3.pdf"
 import ShoalDoodle from "./ShoalDoodle";
@@ -82,6 +82,7 @@ href={resume}
     className="
       relative z-10
       w-[220px] sm:w-[300px] lg:w-[380px]
+      aspect-square object-cover object-[center_35%]
       rounded-full
       border-4 border-blue-500/30
       shadow-[0_0_60px_rgba(59,130,246,0.5)]
